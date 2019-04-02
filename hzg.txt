@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 dream
-=======
-you can do it 
-yes you can 
-come on you are the man 
->>>>>>> test/hzg
